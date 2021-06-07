@@ -20,4 +20,3 @@ tensorflow
 tensorflow-estimator==2.4.0
 termcolor==1.1.0
 terminado==0.9.4
-pickle
