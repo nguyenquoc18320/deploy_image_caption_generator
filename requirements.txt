@@ -11,11 +11,5 @@ olefile==0.46
 opencv-python==4.5.1.48
 pandas==1.2.4
 Pillow==8.2.0
-pytesseract==0.3.7
-pytest==6.2.3
-tensorboard==2.4.1
-tensorboard-plugin-wit==1.8.0
 tensorflow
 tensorflow-estimator==2.4.0
-termcolor==1.1.0
-terminado==0.9.4
