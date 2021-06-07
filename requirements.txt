@@ -1,30 +1,4 @@
 -illow @ file:///C:/ci/pillow_1603823068645/work
-backcall==0.2.0
-cachetools==4.2.1
-catalogue==2.0.3
-comtypes==1.1.7
-conda==4.10.1
-conda-build==3.20.5
-conda-package-handling @ file:///C:/ci/conda-package-handling_1603003327818/work
-conda-verify==3.4.2
-contextlib2==0.6.0.post1
-cryptography @ file:///C:/ci/cryptography_1601046905460/work
-cycler==0.10.0
-cymem==2.0.5
-Cython @ file:///C:/ci/cython_1594829190914/work
-cytoolz==0.11.0
-dask @ file:///tmp/build/80754af9/dask-core_1602083700509/work
-decorator==4.4.2
-defusedxml==0.6.0
-diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
-distributed @ file:///C:/ci/distributed_1605066635297/work
-docutils==0.16
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
-entrypoints==0.3
-et-xmlfile==1.0.1
-fastcache==1.1.0
-filelock==3.0.12
-flake8 @ file:///tmp/build/80754af9/flake8_1601911421857/work
 Flask==1.1.2
 flatbuffers==1.12
 fsspec @ file:///tmp/build/80754af9/fsspec_1602684995936/work
